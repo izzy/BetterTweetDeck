@@ -1,0 +1,7 @@
+html.btd-on {
+  .btd__usrname_only_typeahead .typeahead-item {
+    .fullname {
+      display: none;
+    }
+  }
+}
